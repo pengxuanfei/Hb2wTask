@@ -29,7 +29,8 @@
 1. 返回你的项目主页，在 Code 中，点击 New pull requests
 2. 确认你的推送地址。 “bask fork” 是指你要推送的方的项目地址, “bask” 是指你要推送方的目标项目分支， “head fork” 是指你自己的项目地址，“compare” 是指你自己将要推送的项目所在分支。
 3. 填写推送备注，点击 create pull requests  即可完成推送。
-4. 
+
+
 ---- 
 
 ## 第五步 Megre
