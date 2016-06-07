@@ -6,16 +6,16 @@
 
 
 ---- 
+## 作业提交流程
+
 ### 第一步：组长fork若晓沐的项目
 
  各组组长打开若晓沐的 Github 中 “ Hb2wTask ” 项目，点击fork将它复制到你github中 
 
----- 
 ### 第二步：组员fork各组组长的项目
 
 各组组员打开对应组长的 Github 中 “ Hb2wTask ” 项目，点击fork，将它复制到你github中 
 
----- -
 ### 第三步：修改编辑文件
 #### 方法一：在远程库完成修改编辑
 1. 在你的Github中打来 “ Hb2wTask ” 项目，点开你的小组对应的文档后，点击✎,即可在远程库编辑文件了。
@@ -24,15 +24,39 @@
 #### 方法二：本地库完成修改编辑
 > 暂不进行说明，会在后面的学习中给大家进行讲解。
 
----- 
 ### 第四步：推送 Pull requests 
 1. 返回你的项目主页，在 Code 中，点击 New pull requests
 2. 确认你的推送地址。 “bask fork” 是指你要推送的方的项目地址, “bask” 是指你要推送方的目标项目分支， “head fork” 是指你自己的项目地址，“compare” 是指你自己将要推送的项目所在分支。
 3. 填写推送备注，点击 create pull requests  即可完成推送。
 
-
----- 
-
 ## 第五步 Megre
 各组组长接到组员的Pull requests 后，在项目主页中找到 pull requests  ,打开合并提示后，点击 “ merge pull request ” 即可完成合并。
 
+---
+## 作业提交模板
+
+请各位学员复制下方模板，根据其格式完成作业书写，各小组编号请查看[组队名单公告](https://github.com/runwithcc/HTWAAG/issues/6)
+
+```
+## 小组信息
+- 小组名称：编号+组名 （如：01组 能量棒）
+- 组长：xx
+- 组员：xx、xx
+
+----
+## 本周认领任务清单
+- 问题X :XXXX
+- 问题X :XXXX
+- 问题X :XXXX
+
+------
+## 作业详情
+- 问题X：xxxxxxx
+> 答案：xxxxxx
+
+- 问题X：xxxxxxx
+> 答案：xxxxxx
+
+- 问题X：xxxxxxx
+> 答案：xxxxxx
+```
