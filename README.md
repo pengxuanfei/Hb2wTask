@@ -8,7 +8,6 @@
 ---- 
 ### 第一步：组长fork若晓沐的项目
 
-## 第一步 fork
  各组组长打开若晓沐的 Github 中 “ Hb2wTask ” 项目，点击fork将它复制到你github中 
 
 ---- 
