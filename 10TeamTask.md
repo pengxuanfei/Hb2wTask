@@ -38,7 +38,11 @@
 - 聚焦经典教程
 组员目前还只是初步了解GitHub，信息量很大。
 百度搜索各种帖子，不如集中精力看以下2个网站
+
+
 （1）廖雪峰的官方网站（http://www.liaoxuefeng.com/）
+
+
 （2）GotGitHub（http://www.worldhello.net/gotgithub/index.html）
 - 优先完成指定学习任务
 每周的学习任务，都在GitHub上给出了推荐的学习渠道。（https://github.com/sanmaoding/HTWAAG）
