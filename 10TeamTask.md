@@ -46,5 +46,5 @@
 （2）GotGitHub  http://www.worldhello.net/gotgithub/index.html  
 - 优先完成指定学习任务
 每周的学习任务，都在GitHub上给出了推荐的学习渠道。  https://github.com/sanmaoding/HTWAAG  
-具体点击里面的“Hb1wTask.md”、“Hb2wTask.md”等查看。
+具体点击里面的“Hb1wTask.md”、“Hb2wTask.md”等查看。 
 
