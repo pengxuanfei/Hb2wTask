@@ -24,7 +24,7 @@
 
 - 问题4 :如果要用 200 字向一个对 Github 完全陌生的人介绍它，要如何介绍？
 > 答案：
->- 1.GitHub（https://github.com/）
+>- 1.GitHub  https://github.com/  
 是一个面向开源及私有软件项目的托管平台，因为只支持Git（目前最先进的分布式版本控制系统）作为唯一的版本库格式进行托管，故名GitHub。
 >- 2.GitHub可以被当做免费的远程仓库，然而它更是一个开源协作社区，任何人都可以利用Git极其强大的克隆和分支功能，方便自由的相互参与各自的开源项目。
 >- 3.GitHub的出现进一步推动了Git的普及，简化了版本控制的管理和操作流程，为开发者提供了更好的交流平台，同时诸多知名的开源项目，也给初学者提供了非常好的案例参考。
@@ -40,11 +40,11 @@
 百度搜索各种帖子，不如集中精力看以下2个网站
 
 
-（1）廖雪峰的官方网站（http://www.liaoxuefeng.com/）
+（1）廖雪峰的官方网站  http://www.liaoxuefeng.com/  
 
 
-（2）GotGitHub（http://www.worldhello.net/gotgithub/index.html）
+（2）GotGitHub  http://www.worldhello.net/gotgithub/index.html  
 - 优先完成指定学习任务
-每周的学习任务，都在GitHub上给出了推荐的学习渠道。（https://github.com/sanmaoding/HTWAAG）
+每周的学习任务，都在GitHub上给出了推荐的学习渠道。  https://github.com/sanmaoding/HTWAAG  
 具体点击里面的“Hb1wTask.md”、“Hb2wTask.md”等查看。
 
